@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648097842547",
+    "project_id": "modul-5---firestore-f55121023",
+    "storage_bucket": "modul-5---firestore-f55121023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648097842547:android:34c71f8a967693ec18b106",
+        "android_client_info": {
+          "package_name": "com.Indirayulianti.firestore_f55121023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648097842547-a84d29apgbb8ds1cfvpe176llv0css4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoAt_CtVnAwSihgd92KNLJyquwwinKNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648097842547-a84d29apgbb8ds1cfvpe176llv0css4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
